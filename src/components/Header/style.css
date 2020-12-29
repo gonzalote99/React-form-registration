@@ -2,6 +2,7 @@ header {
   min-height: 8vh;
   display: flex !important;
   align-items: center;
+  margin-top: 2px;
   justify-content: center;
   color: #282c34;
   /* background-image: linear-gradient(#daf5ff, transparent, transparent); */

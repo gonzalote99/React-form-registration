@@ -9,5 +9,6 @@ footer {
   align-items: center;
   justify-content: center;
   background-color: #daf5ff;
+  color:red;
   /* background-image: linear-gradient(#daf5ff, transparent, transparent); */
 }
